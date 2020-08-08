@@ -2,17 +2,19 @@
 
 <div align="center">
 	<p style="font-size:30px;">Helmet Shop<p>
+		
+</div>
 	<p>
 		<img src="https://img.shields.io/badge/c%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=for-the-badge&logo=appveyor&logo=C-Sharp">
+		<br>
 		<img src="https://img.shields.io/badge/Visual Studio-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-blue?style=for-the-badge&logo=Visual-Studio">
-		<img src="https://img.shields.io/badge/Guna-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-important?style=for-the-badge&logo=Guna">
-		<img src="https://img.shields.io/badge/Sql Servr-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-success?style=for-the-badge&logo=Microsoft-SQL-Server">
+		<br>
+		<img src="https://img.shields.io/badge/Guna-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-important?style=for-the-badge&logo=Guna">		
 	</p>
 	<p>
 		<img src="https://img.shields.io/badge/Version-1.1-blue">
 	</p>
-	
-</div>
+
 
 
 #### About
