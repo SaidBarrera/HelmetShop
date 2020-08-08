@@ -1,0 +1,12 @@
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\bin\Debug\Helmet Shot.exe.config
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\bin\Debug\Helmet Shot.exe
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\bin\Debug\Helmet Shot.pdb
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\bin\Debug\Guna.UI2.dll
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.csprojAssemblyReference.cache
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet_Shot.Form1.resources
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet_Shot.Properties.Resources.resources
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.csproj.GenerateResource.cache
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.csproj.CoreCompileInputs.cache
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.csproj.CopyComplete
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.exe
+C:\Users\Saki\source\repos\Helmet Shot\Helmet Shot\obj\Debug\Helmet Shot.pdb
