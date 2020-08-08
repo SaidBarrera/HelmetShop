@@ -5,7 +5,7 @@
 		
 </div>
 	<p>
-		<img src="https://img.shields.io/badge/c%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=for-the-badge&logo=appveyor&logo=C-Sharp">
+		<img src="https://img.shields.io/badge/C%23-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-brightgreen?style=for-the-badge&logo=appveyor&logo=C-Sharp">
 		<br>
 		<img src="https://img.shields.io/badge/Visual Studio-%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90%E2%AD%90-blue?style=for-the-badge&logo=Visual-Studio">
 		<br>
