@@ -30,3 +30,11 @@ If you'll be running the solution in *Visual Studio*, please ensure you have a c
 - [Microsoft Visual Studio 2015](https://www.visualstudio.com/) and above.
 - [Guna Framework](https://gunaframework.com/) (Free Trial version).
 
+¡Gracias! :heart:
+
+---
+
+¡Las contribuciones son bienvenidas! <3
+
+Hecho con :heart: y C#
+
